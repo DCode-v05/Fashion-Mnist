@@ -1,7 +1,5 @@
 # 👗 Fashion-MNIST Classification
 
-[🔗 GitHub Repository](https://github.com/Denistanb/Fashion-Mnist)
-
 This project explores the Fashion-MNIST dataset using deep learning techniques. It involves data preprocessing, exploratory data analysis (EDA), and building classification models using both Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) to accurately classify fashion items.
 
 ---
