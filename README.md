@@ -50,7 +50,7 @@ The objective is to classify 28x28 pixel grayscale images of fashion items into 
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/TensoRag/Fashion-Mnist.git
+   git clone https://github.com/DCode-v05/Fashion-Mnist.git
    cd Fashion-Mnist
    ```
 2. **Install Dependencies:**
@@ -101,5 +101,5 @@ Contributions are welcome! To contribute:
 ---
 
 ## Contact
-- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
 - **Email:** denistanb05@gmail.com
